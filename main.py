@@ -1,5 +1,8 @@
 import os
 
+def play():
+    print('start to play')
+
 def helper():
     print('this is helper function')
 
